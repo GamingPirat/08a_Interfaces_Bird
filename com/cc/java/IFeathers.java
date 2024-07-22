@@ -2,5 +2,6 @@ package com.cc.java;
 
 public interface IFeathers {
 
-    public abstract String feather();
+    public abstract String hasFeathers();
+    
 }
